@@ -1,0 +1,4 @@
+requests
+blackboxprotobuf
+protobuf-decoder
+flask
